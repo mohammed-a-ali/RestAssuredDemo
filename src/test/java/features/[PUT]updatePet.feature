@@ -1,4 +1,4 @@
-Feature: Add a pet
+Feature: [PUT Request] Add a pet
   This allows the user to update an existing pet in the store
 
 

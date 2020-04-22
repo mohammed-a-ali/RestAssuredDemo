@@ -1,4 +1,4 @@
-Feature: Add a pet
+Feature: [POST Request] Add a pet
   This allows the user to add a new pet to the store
 
 
