@@ -2,20 +2,29 @@
 
 1. Clone the project
 2. Open the project using your IDE (Eclipse/ Intellij)
-3. Accept the import to import all dependencies 
+3. Accept the import to import all dependencies
+4. To run all test cases in sequance, go to `TestRunner` class
 
+ ### Expand until `TestRunner` class
+ Right click on `TestRunner` then select `Run 'TestRunner'`
+ ![All Testcases](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/images/All_TCs.jpg)
+ *** 
+ 5. To run each test case separately
 From the project explorer, go to this path (Expand) `src/test/java/features`
 
- 4. Right click on `findPetsByStatus.feature` then select `Run 'Feature: findPetsByStatus'`
- ![First Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/target/images/TC_1.jpg)
+ a. Right click on `[GET]findPetsByStatus.feature` then select `Run 'Feature: [GET]findPetsByStatus'`
+ ![First Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/images/TC_1.jpg)
  *** 
- 5. Right click on `addPet.feature` then select `Run 'Feature: addPet'`
- ![First Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/target/images/TC_2.jpg)
+ 
+ b. Right click on `[Post]addPet.feature` then select `Run 'Feature: [Post]addPet'`
+ ![Second Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/images/TC_2.jpg)
  ***
- 6. Right click on `updatePet.feature` then select `Run 'Feature: updatePet'`
- ![First Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/target/images/TC_3.jpg)
+ 
+ c. Right click on `[PUT]updatePet.feature` then select `Run 'Feature: [PUT]updatePet'`
+ ![Third Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/images/TC_3.jpg)
  *** 
- 7. Right click on `deletePet.feature` then select `Run 'Feature: deletePet'`
- ![First Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/target/images/TC_4.jpg)
+ 
+ d. Right click on `deletePet.feature` then select `Run 'Feature: deletePet'`
+ ![Fourth Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/images/TC_4.jpg)
  *** 
  
