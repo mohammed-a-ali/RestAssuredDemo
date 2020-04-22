@@ -5,6 +5,7 @@
 3. Accept the import to import all dependencies 
 
 From the project explorer, go to this path (Expand) `src/test/java/features`
+
  4. Right click on `findPetsByStatus.feature` then select `Run 'Feature: findPetsByStatus'`
  ![First Testcase](https://github.com/mohammed-a-ali/RestAssuredDemo/blob/master/target/images/TC_1.jpg)
  *** 
